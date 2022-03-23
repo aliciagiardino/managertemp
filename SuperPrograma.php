@@ -1,6 +1,6 @@
 <?php
 
-echo "Super programa";
+echo "Super programa ok";
 
 $x=getInt10();
 
